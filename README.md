@@ -49,10 +49,10 @@ pytest tests/ -v
 
 ## Запустить тесты с генерацией Allure-отчёта
 ```
-pytest tests/ -v --alluredir=allure_results
+pytest tests/ -v --alluredir=allure-results
 ```
 
 ## Сгенерировать HTML-отчёт
 ```
-allure serve allure_results
+allure serve allure-results
 ```
