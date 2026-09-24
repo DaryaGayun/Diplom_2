@@ -1,5 +1,4 @@
 import allure
-import pytest
 from helpers.data import INVALID_INGREDIENT_HASH
 
 @allure.epic("Stellar Burgers API")

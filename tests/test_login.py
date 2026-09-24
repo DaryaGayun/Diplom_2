@@ -1,5 +1,4 @@
 import allure
-import pytest
 from helpers.data import INVALID_LOGIN_DATA
 
 @allure.epic("Stellar Burgers API")
